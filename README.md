@@ -1,5 +1,5 @@
 - Hi, I’m @lukelwelsh
-- I’m very interested in global health, sustainability, and sports.
+- I’m very interested in sports, sustainability, and global health.
 - I’m currently learning about various data science topics!
 - In addition to learning about various topics through coding, I also enjoy playing sports and customizing shoes! Below are 2 of the shoes that I have made :)
 
