@@ -1,6 +1,5 @@
-- Hi, I’m @lukelwelsh
+- Hi, I’m Luke Welsh
 - I’m very interested in sports, sustainability, and global health.
-- I’m currently learning about various data science topics!
 - Here is a link to my Tableau public account: https://public.tableau.com/app/profile/luke.welsh/vizzes
 - In addition to learning about various topics through coding, I also enjoy playing sports and customizing shoes! Below are 2 of the shoes that I have made :)
 
